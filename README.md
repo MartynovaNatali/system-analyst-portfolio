@@ -19,7 +19,7 @@ SQL (SELECT, JOIN, WHERE, GROUP BY), Python (базовый), XML, XSD, JSON
 REST (Postman), SOAP
 
 **Инструменты**  
-Draw.io, Figma, Jira, Confluence, Gi 
+Draw.io, Figma, Jira, Confluence, Git
 
 ---
 
