@@ -34,7 +34,7 @@ Draw.io, Figma, Jira, Confluence, Git
 
 | Кейс | Описание | Что внутри |
 |------|----------|-------------|
-| **Кейс 1. Процесс возврата** | Анализ и моделирование процесса возврата товара/денег | BPMN, сценарии, исключения |
-| **Кейс 2. Разделение оплаты** | Проектирование функционала split payment | Требования, user stories, прототип |
-| **Кейс 3. Система опросов** | Система для сбора и анализа обратной связи | Архитектура, БД, REST API |
+| **Кейс 1. Процесс возврата** | Анализ и моделирование процесса возврата товара/денег | BPMN, сценарии, исключения [Смотреть кейс](https://github.com/MartynovaNatali/system-analyst-portfolio/tree/main/cases/case1-return-process) |
+| **Кейс 2. Разделение оплаты** | Проектирование функционала split payment | Требования, user stories, прототип [Смотреть кейс](https://github.com/MartynovaNatali/system-analyst-portfolio/tree/main/cases/case2-split-payment) |
+| **Кейс 3. Система опросов** | Система для сбора и анализа обратной связи | Архитектура, БД, REST API [Смотреть кейс](https://github.com/MartynovaNatali/system-analyst-portfolio/tree/main/cases/case3-survey-system) |
 > 🟢 **Финальный проект (свободная тема)** — в процессе, скоро появится.
