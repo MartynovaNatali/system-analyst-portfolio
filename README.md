@@ -29,6 +29,7 @@ Draw.io, Figma, Jira, Confluence, Git
 |--------|----------|--------|
 | **Система доставки пиццы** | Учебный проект: BPMN, UML, DDD, требования, API, прототип в Figma |[Перейти к проекту](https://github.com/MartynovaNatali/LEARNING-PROJECT-pizza-delivery-system) ||
 | **Postman-коллекция пиццерии** | Коллекция запросов для тестирования API | [Перейти к коллекции](https://github.com/MartynovaNatali/pizzeria-postman-collection) | |
+|**Работа с ветками и конфликтами Git** | Практика создания веток, разрешения merge-конфликтов | [Перейти к репозиторию](https://github.com/MartynovaNatali/git-conflict-practice-order) |
 
 Также три самостоятельные аналитические работы:
 
